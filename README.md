@@ -1,7 +1,7 @@
 ## Ice Cream Shop Inventory and Billing Management 🍦🛒💰   
 
 #### 🎯 **Objective**  
-To automate inventory tracking, stock updates, and billing processes, ensuring smooth shop operations and enhancing customer satisfaction.  
+The Ice Cream Shop Inventory & Billing Management System is designed to automate inventory tracking, stock updates, and billing operations to improve efficiency and accuracy. By reducing manual efforts, preventing stock shortages, and ensuring seamless billing, this system enhances the overall management of an ice cream shop.  
 
 ### 🌟 **Key Features**  
 
@@ -10,8 +10,3 @@ To automate inventory tracking, stock updates, and billing processes, ensuring s
 - **Sales & Order Management 📊:** Tracks daily, weekly, and monthly sales, and provides insights into best-selling items.  
 - **Multi-User Access 🔐:** Provides role-based access for secure and efficient management.  
 
-### 🚀 **How It Works:**  
-- **Inventory updates** automatically with every sale.  
-- **Billing** generates invoices instantly.  
-- **Stock alerts** notify staff when stock is low.  
-- **Reports** help track performance and optimize operations.  
